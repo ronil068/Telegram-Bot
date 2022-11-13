@@ -15,3 +15,5 @@ It is a IOT project where different sensors are used and they send data to Teleg
   <img class="center" src = "Code/Telegram Snap-2.jpg" alt = "Drawing" style="width: 300px; height: 605px">
 </p>
 
+© 2021 Ronil Patil<br>
+[![Website](https://img.shields.io/badge/Made%20with-%E2%9D%A4-important?style=for-the-badge&url=https://www.linkedin.com/in/ronylpatil/)](https://www.linkedin.com/in/ronylpatil/)
