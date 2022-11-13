@@ -9,27 +9,9 @@ It is a IOT project where different sensors are used and they send data to Teleg
   <img class="center" src = "Code/Sensor Snap-2.jpg" alt = "Drawing" style="width: 1400px; height: 600px">
 </p>
 
-<p align = "center">
-  <img class="center" src = "" alt = "Drawing" style = "width : 300px;">
-</p>
-
 # Final Output
 <p align = "center">
-  <img class="center" src = "" alt = "Drawing" style = "width : 300px;">
+  <img class="center" src = "Code/Telegram Snap-1.jpg" alt = "Drawing" style="width: 300px; height: 605px">
+  <img class="center" src = "Code/Telegram Snap-2.jpg" alt = "Drawing" style="width: 300px; height: 605px">
 </p>
 
-<p align = "center">
-  <img class="center" src = "" alt = "Drawing" style = "width : 300px;">
-</p>
-
-<p align = "center">
-  <img class="center" src = "" alt = "Drawing" style = "width : 300px;">
-</p>
-
-<p align = "center">
-  <img class="center" src = "" alt = "Drawing" style = "width : 300px;">
-</p>
-
-<p align = "center">
-  <img class="center" src = "" alt = "Drawing" style = "width : 300px;">
-</p>
